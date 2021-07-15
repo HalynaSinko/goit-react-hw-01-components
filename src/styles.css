@@ -1,0 +1,16 @@
+p,
+ul,
+h2 {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
